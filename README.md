@@ -7,7 +7,7 @@
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 ```
 
-or run `twgo` in the directory `ex00`
+or run `twgo` in the directory `ex00` which is the location of the file `tailwind.config.js` and the `src` directory.
 
 #### Bring up the web server
 
