@@ -7,7 +7,7 @@
 npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
 ```
 
-### or run twgo in the directory ex00
+or run `twgo` in the directory `ex00`
 
 #### Bring up the web server
 
