@@ -28,7 +28,7 @@ allowing you to show the best possible layout to the user.
 
 ##### Rust binary
 
-- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)   
 The binary is located here after running
 
 ```rust
