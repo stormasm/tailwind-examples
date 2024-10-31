@@ -21,3 +21,17 @@ CSS breakpoints are points where the website content responds according to the d
 allowing you to show the best possible layout to the user.
 
 - [What is a CSS Breakpoint](https://getflywheel.com/layout/css-breakpoints-responsive-design-how-to/)
+
+#### References
+
+- https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+
+##### Rust binary
+
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+The binary is located here after running
+
+```rust
+pnpm  build
+tailwindcss/packages/@tailwindcss-standalone/dist
+```
