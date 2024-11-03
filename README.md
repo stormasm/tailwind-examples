@@ -20,6 +20,12 @@ liveserver ./ex00/src
 sm ./ex00/src
 ```
 
+Run the `liveserver` on port 4000 instead of the default port 3000
+
+```rust
+sm ./src -p 4000
+```
+
 ## References and Aliases
 
 ##
