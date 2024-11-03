@@ -29,6 +29,9 @@ sm ./ex00/src
 ```sh
 alias rustbin='cd ~/mia/rust/bin'
 alias twex='cd ~/j/tmp10/tailwind-examples'
+```
+
+```rust
 alias twgo='npx tailwindcss -i ./src/input.css -o ./src/output.css --watch'
 ```
 
